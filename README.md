@@ -25,7 +25,7 @@ Welcome to the Simple Snake Game! This project is a basic implementation of the 
 
 ## Demo
 
-To see a live demo, [click here](#) to play the Simple Snake Game.
+To see a live demo, [click here](https://sameermuslim.github.io/snake-game) to play the Simple Snake Game.
 
 ## Technologies Used
 
