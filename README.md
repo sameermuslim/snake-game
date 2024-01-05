@@ -33,7 +33,7 @@ This game is built using HTML, CSS, and JavaScript for a simple yet nostalgic ga
 
 ## Screenshots
 
-![Snake Game Screenshot](screenshot-snake.jpg)
+![Snake Game Screenshot](Screenshot-snake.jpg)
 
 ## Contributing
 
